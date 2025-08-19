@@ -1,4 +1,6 @@
-![LuisLuiscoinGIF](https://github.com/user-attachments/assets/d7725a67-f5f1-447c-beb9-74dbed185877)
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5738046.png" width="1535" height="165" alt="Pipe-Firestarter-Storage-Node" /></a>
+
+
 
 # Pre-Requirements 🛠
 
@@ -190,7 +192,7 @@ pipe token-usage
 </div>
 
 
-### [Join the Pipe Dc](https://discord.gg/fhVwSe8j)
+### [Join the Pipe Dc](https://discord.gg/wttFzGEh)
 
 ## Role Requirement👇
 
@@ -206,5 +208,5 @@ contact  telegram
 
 @cryptoh2012 
 
-![GoodLuckGoodLuckWithThatGIF](https://github.com/user-attachments/assets/8e78d0f3-e9fa-4d6e-a3d2-be087c726ed1)
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5738047.gif" width="1122" height="107" alt="Welcome to crypto holder family" /></a>
 
